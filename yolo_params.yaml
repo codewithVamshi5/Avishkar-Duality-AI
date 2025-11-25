@@ -1,0 +1,13 @@
+train: /content/project/Space_Hackathon_Master/dataset/train
+val: /content/project/Space_Hackathon_Master/dataset/val
+test: /content/project/Space_Hackathon_Master/dataset/test
+
+nc: 7
+names:
+  - OxygenTank
+  - NitrogenTank
+  - FirstAidBox
+  - FireAlarm
+  - SafetySwitchPanel
+  - EmergencyPhone
+  - FireExtinguisher
